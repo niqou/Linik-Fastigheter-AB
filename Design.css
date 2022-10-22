@@ -119,6 +119,7 @@ header {
     text-decoration: none;
     position: relative;
     top: 4px;
+    letter-spacing: 1rem;
 }
 
 .hamburger-menu {
@@ -208,6 +209,7 @@ header ul.is-sticky li a.active {
     background: rgba(52, 58, 64, 0.4);
     padding-block: 2rem;
     border-radius: 10px;
+    border: outset 1px rgba(52, 58, 64);
 }
 
 #hero .hero-text p {
